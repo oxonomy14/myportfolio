@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-project-js-portfolio-gr08/",
+    "build": "vite build --base=/myportfolio/",
     "preview": "vite preview"
   },
   "devDependencies": {
